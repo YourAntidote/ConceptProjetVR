@@ -21,8 +21,9 @@ La partie se termine si le joueur n'a plus de leurres, leurres qui peut perdre s
 ### 6. [Fishing Reel Sound Effect Fx](https://www.youtube.com/watch?v=MUny9Nl27Zs)
 
 
-## Carte de votre environnement virtuel 
+## Carte de l'environnement virtuel 
 
+![MoodBoard - visuel.png](assets/img/carte.png)
 
 ## Schéma de programmation ou d'interactivité
 ![MoodBoard - visuel.png](assets/img/schema.png)
